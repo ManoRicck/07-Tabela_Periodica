@@ -17,7 +17,7 @@ const elements = [
     group: "noble-gas",
     position: { c: 18, r: 1 },
     electrons: [2],
-    atomicWeight: [4],
+    atomicWeight: [2],
   },
   {
     number: 3,
