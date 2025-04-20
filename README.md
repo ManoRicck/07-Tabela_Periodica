@@ -6,6 +6,6 @@ Este projeto apresenta uma tabela periódica totalmente interativa, desenvolvida
 
 A interface foi construída para ser clara, responsiva e fácil de navegar, permitindo que estudantes, professores ou entusiastas da química tenham uma experiência prática e moderna ao estudar os elementos da tabela periódica.
 
-👉 [Clique aqui para acessar o site e explorar a tabela periódica](https://7-tabela-periodica.vercel.app/)
+👉 [Clique aqui para acessar o site e explorar a tabela periódica](https://07-tabelaperiodica.vercel.app/)
 
 Ideal para estudantes, educadores, desenvolvedores interessados em interfaces educacionais e amantes da ciência em geral.
