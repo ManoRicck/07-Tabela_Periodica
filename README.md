@@ -63,7 +63,7 @@ Elementos da Tabela Periodica:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ManoRicck/03-Garagem_de_Carros.git
+git clone https://github.com/ManoRicck/07-Tabela_Periodica.git
 ```
 2. Execute o arquivo html:
 ```bash
