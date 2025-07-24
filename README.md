@@ -1,7 +1,7 @@
 https://github.com/user-attachments/assets/1e2a56ab-f70e-4b4f-89ba-688bc8e97927
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6437ea49-21c1-4756-bdb6-bb811602f49c" alt="Tabela Periodica" height="150">
+  <img src="https://github.com/user-attachments/assets/6437ea49-21c1-4756-bdb6-bb811602f49c" alt="Tabela Periodica" height="200">
 </div>
 <h1 align="center">  
   Tabela Periódica – Visualização Interativa dos Elementos
